@@ -6,7 +6,6 @@ Crear una página web simple usando únicamente HTML que funcione como tu portaf
 
 ## Datos del estudiante
 **Nombre:** Fernando Nicolás Lema Naula
-
 **Carrera:** Desarrollo de Software
 
 ## Instrucciones
